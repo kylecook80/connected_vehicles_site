@@ -9,12 +9,12 @@ const config: Config = {
   url: 'https://vehicles.tulsacyber.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/connected_vehicles_site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kylecook80', // Usually your GitHub org/user name.
-  projectName: 'connected_vehicle_site', // Usually your repo name.
+  projectName: 'connected_vehicles_site', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
